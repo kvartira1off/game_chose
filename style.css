@@ -220,3 +220,7 @@ button {
     background-size: cover;
     
 }
+.filter-btn{
+    margin-right: 200px;
+    margin-top: 20px;
+}
