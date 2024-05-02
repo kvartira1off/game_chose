@@ -110,7 +110,7 @@ button {
     height: 35px;
     transform: rotateX(30);
 }
-.container{
+.main-screen{
     perspective: 400px;
 }
 .custom-btn1 {

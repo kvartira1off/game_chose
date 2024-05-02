@@ -29,14 +29,14 @@ filter_btn.addEventListener('click', function(){
 })
 
 back_btn_ps.addEventListener('click', function(){
-    main_screen.style.display = "flex"
+    main_screen.style.display = "block"
     profile_screen.style.display = "none"
 })
 back_btn_ws.addEventListener('click', function(){
-    main_screen.style.display = "flex"
+    main_screen.style.display = "block"
     wallet_screen.style.display = "none"
 })
 back_btn_hs.addEventListener('click', function(){
-    main_screen.style.display = "flex"
+    main_screen.style.display = "block"
     help_screen.style.display = "none"
 })
